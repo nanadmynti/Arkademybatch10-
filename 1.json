@@ -1,0 +1,16 @@
+{
+    "name": "Nana Damayanti",
+    "address": "Gang Madrasah RT.07 RW.01 Kel.Rawajati Kec. Pancoran, Jakarta Selatan 12750",
+    "hobbies": ["Reading", "Playing Basket Ball", "Listening to music", "Travelling", "Photo and Videography"],
+    "is_married": false,
+    "School": {
+        "High School": "SMK NEGERI 47 JAKARTA",
+        "University": "Belum kuliah"
+    },
+    "Skills": [{
+        "English": 83,
+        "Ms.Word": 85,
+        "Ms.Excel": 80,
+        "Accurate": 83,
+    }]
+}
